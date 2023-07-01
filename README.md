@@ -51,7 +51,7 @@ convenience. We would appreciate your valid imagination in finding solutions.
 
 
 
-**[Prototype](https://public.tableau.com/app/profile/aalmeen.khan7772/viz/Airbnb_16853465077110/Dashboard1)**
+**[Tableau Dashboard](https://public.tableau.com/app/profile/aalmeen.khan7772/viz/Airbnb_16853465077110/Dashboard1)**
 
 # AIRBNB DATA ANALYSIS DASHBOARD
 
