@@ -55,4 +55,4 @@ convenience. We would appreciate your valid imagination in finding solutions.
 
 # AIRBNB DATA ANALYSIS DASHBOARD
 
-![IMAGE](Images\dashboard.PNG)s
+![IMAGE](https://github.com/Abdul-Jaweed/Airbnb-Data-Analysis/blob/main/Images/dashboard.PNG)
